@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI:process.env.MONGO_URI
-}
+  mongoURI:
+    "mongodb+srv://romini:romini@database.la0nj.mongodb.net/myPettlog?retryWrites=true&w=majority",
+};
